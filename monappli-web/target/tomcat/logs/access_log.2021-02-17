@@ -1,2 +1,0 @@
-127.0.0.1 - - [17/Feb/2021:15:58:42 +0100] "GET /monappli-web/ HTTP/1.1" 200 52 http-bio-8080-exec-1 316
-127.0.0.1 - - [17/Feb/2021:15:58:42 +0100] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
